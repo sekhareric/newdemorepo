@@ -9,3 +9,9 @@ i am making changes in central repo
 {
 adding new version=2 changes
 }
+{
+hi i am reset operation 
+1
+2
+3
+4
